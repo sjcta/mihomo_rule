@@ -1,0 +1,12 @@
+# Jeson的代理列表(走代理使用)
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,scrobbles.plex.tv
+DOMAIN-SUFFIX,analytics.plex.tv
+DOMAIN-SUFFIX,metadata.provider.plex.tv
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,images.plex.tv
+DOMAIN-SUFFIX,bing.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,provider

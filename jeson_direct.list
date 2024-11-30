@@ -1,0 +1,12 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,analytics.plex.tv
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,app.plex.tv
+DOMAIN-SUFFIX,jellyfin.org
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,baidu
